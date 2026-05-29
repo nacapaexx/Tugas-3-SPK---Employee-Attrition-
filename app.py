@@ -30,7 +30,7 @@ df = pd.read_csv(
 # TITLE
 # =====================================================
 
-st.title("Employee Attrition Prediction DSS")
+st.title("Employee Attrition Prediction")
 
 st.markdown("""
 Smart Decision Support System for Employee Attrition Prediction
